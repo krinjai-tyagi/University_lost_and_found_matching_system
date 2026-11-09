@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pillow
+sentence-transformers 
+torchvision
+pillow
